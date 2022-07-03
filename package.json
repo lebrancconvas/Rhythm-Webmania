@@ -14,7 +14,7 @@
         "lerna": "^5.1.4"
     },
     "scripts": {
-        "start": "lerna start",
+        "start": "lerna run start",
         "w:info": "yarn workspaces info"
     }
 }
